@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679287197254",
+    "project_id": "facex-c095a",
+    "storage_bucket": "facex-c095a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679287197254:android:4d6571cdf388b9ecc08447",
+        "android_client_info": {
+          "package_name": "com.example.facex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKWe2RgkynPSCDdrS7Gvy6NBQCMy5PKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
